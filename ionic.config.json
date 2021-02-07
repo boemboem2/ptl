@@ -1,0 +1,8 @@
+{
+  "name": "PTL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "d1fc35b5"
+}
